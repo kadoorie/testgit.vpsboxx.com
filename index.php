@@ -1,3 +1,4 @@
 <?PHP
 PRINT("TEST 01");
+PRINT("TEST 01");
 ?>
