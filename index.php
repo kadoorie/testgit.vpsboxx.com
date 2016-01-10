@@ -1,0 +1,3 @@
+<?PHP
+PRINT("TEST 01");
+?>
